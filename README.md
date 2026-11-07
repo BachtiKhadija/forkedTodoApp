@@ -12,7 +12,7 @@ This is a simple Todo application built with React and Redux, allowing users to 
 
 ![isdone](https://github.com/FizzaNawaz-167/Todo_App_React_redux/assets/163080358/09999c91-ef6f-48bf-8c7f-588f45984535)
 
-
+##new Line
 
 ## Features
   ▫ Add new todos
